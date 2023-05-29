@@ -1,0 +1,7 @@
+myesinfo:
+  host: 127.0.0.1
+  port: 9200
+logging:
+  level:
+    com:
+     kutake: debug
